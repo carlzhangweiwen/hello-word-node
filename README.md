@@ -1,4 +1,4 @@
-# teex-web-node
+# hello-word-node
 
 > A Vue.js project
 
